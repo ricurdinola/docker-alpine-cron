@@ -9,7 +9,7 @@
 <br/>
 <div align="center">
   <a href="https://github.com/ricurdinola/docker-alpine-cron">
-    <img src="readme/cron.png" alt="Logo" width="500" height="300">
+    <img src="readme/cron.png" alt="Logo" width="500" height="250">
   </a>
 
 <h3 align="center">Docker Alpine Cron</h3>
