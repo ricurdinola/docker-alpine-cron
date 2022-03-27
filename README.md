@@ -27,7 +27,7 @@
 </div>
 
 ## Sobre el Proyecto
-El es un ejemplo de crons sobre Alpine corriendo dentro de un contenedor para Docker.
+El proyecto es un ejemplo de crons sobre Alpine corriendo dentro de un contenedor para Docker.
 <p align="right"><a href="#top">Ir al Inicio</a></p>
 
 ### Descripción del Proyecto
